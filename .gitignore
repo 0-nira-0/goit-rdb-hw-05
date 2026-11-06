@@ -1,0 +1,10 @@
+# Datasets are downloaded by the notebook
+data/
+*.csv
+*.parquet
+*.zip
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+.venv/
